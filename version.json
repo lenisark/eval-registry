@@ -1,0 +1,7 @@
+{
+  "core":       { "version": "v0.1.0", "notes": "최초 릴리스" },
+  "demo":       { "version": "v0.1.0", "notes": "최초 릴리스" },
+  "probation":  { "version": "v0.0.0", "notes": "준비 중" },
+  "competency": { "version": "v0.0.0", "notes": "준비 중" },
+  "job":        { "version": "v0.0.0", "notes": "준비 중" }
+}
