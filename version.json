@@ -1,7 +1,7 @@
 {
-  "core":       { "version": "v0.2.0", "notes": "Phase 2A: 회차 운영·다단계 가중합산·접근로그·발송로그 스키마 확장" },
-  "demo":       { "version": "v0.2.0", "notes": "Phase 2A: 접근로그 통합 doGet 골격" },
+  "core":       { "version": "v0.3.0", "notes": "Phase 2B: 역량평가 모듈 통합(마법사 루브릭 검증·명단 이월 메뉴)" },
+  "demo":       { "version": "v0.3.0", "notes": "doGet 골격이 competency 모듈로 이관, 데모는 하위 라우트" },
   "probation":  { "version": "v0.0.0", "notes": "준비 중" },
-  "competency": { "version": "v0.0.0", "notes": "준비 중" },
+  "competency": { "version": "v0.3.0", "notes": "역량평가 모듈 v1 — 토큰 링크·루브릭 데이터화·회차·대시보드" },
   "job":        { "version": "v0.0.0", "notes": "준비 중" }
 }
