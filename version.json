@@ -1,7 +1,7 @@
 {
-  "core":       { "version": "v0.4.0", "notes": "Phase 2C: 참고단계(가중치 0)·수습 설정 키" },
-  "demo":       { "version": "v0.4.0", "notes": "competency 모듈 하위 라우트" },
-  "probation":  { "version": "v0.4.0", "notes": "수습평가 모듈 v1 — 개인별 시점·본인/부서장·자동 발송 트리거·판정·대시보드" },
-  "competency": { "version": "v0.4.0", "notes": "역량평가 모듈 — 변경 없음(코어 버전 동기화)" },
-  "job":        { "version": "v0.0.0", "notes": "준비 중" }
+  "core":       { "version": "v0.5.0", "notes": "Phase 3: 산식 헬퍼 일반화·직무 설정 키" },
+  "demo":       { "version": "v0.5.0", "notes": "competency 모듈 하위 라우트" },
+  "probation":  { "version": "v0.5.0", "notes": "수습평가 모듈 (코어 버전 동기화)" },
+  "competency": { "version": "v0.5.0", "notes": "역량평가 모듈 (코어 버전 동기화)" },
+  "job":        { "version": "v0.5.0", "notes": "직무평가 모듈 v1 — 본인20/부서장80 가중합산·직무별 루브릭·하이브리드 발송·대시보드" }
 }
