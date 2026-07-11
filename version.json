@@ -1,7 +1,7 @@
 {
-  "core":       { "version": "v0.5.0", "notes": "Phase 3: 산식 헬퍼 일반화·직무 설정 키" },
-  "demo":       { "version": "v0.5.0", "notes": "competency 모듈 하위 라우트" },
-  "probation":  { "version": "v0.5.0", "notes": "수습평가 모듈 (코어 버전 동기화)" },
-  "competency": { "version": "v0.5.0", "notes": "역량평가 모듈 (코어 버전 동기화)" },
-  "job":        { "version": "v0.5.0", "notes": "직무평가 모듈 v1 — 본인20/부서장80 가중합산·직무별 루브릭·하이브리드 발송·대시보드" }
+  "core":       { "version": "v0.6.0", "notes": "Phase 3.5: N단계 평가자 매핑 규약(유형→명단 컬럼)·마법사 매핑 검증" },
+  "demo":       { "version": "v0.6.0", "notes": "competency 모듈 하위 라우트" },
+  "probation":  { "version": "v0.6.0", "notes": "수습평가 모듈 (코어 버전 동기화 — 본인·부서장 2단계 고정, 마법사 경고)" },
+  "competency": { "version": "v0.6.0", "notes": "N단계 이식 — 구토큰(3세그) 하위호환·응답 단계번호 마이그레이션·구발송 dedupe" },
+  "job":        { "version": "v0.6.0", "notes": "N단계 일반화 참조 구현 — 단계 루프 발송·동적 라우팅·동적 대시보드" }
 }
