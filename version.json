@@ -1,7 +1,7 @@
 {
-  "core":       { "version": "v0.7.0", "notes": "Phase 4: doGet 코어 이관·모듈 설치 감지·마법사 모듈별 조건부(검증·시드·트리거·메뉴)" },
-  "demo":       { "version": "v0.7.0", "notes": "데모 시드(seedDemoCompany) 추가 — 개발 마스터 전용" },
-  "probation":  { "version": "v0.7.0", "notes": "상품 마스터 분리 출고 — 단독 설치 지원(마법사 조건부·기본 단계 시드)" },
-  "competency": { "version": "v0.7.0", "notes": "상품 마스터 분리 출고 — 단독 설치 지원·부서별 진행률 대시보드" },
-  "jobeval":    { "version": "v0.7.0", "notes": "상품 마스터 분리 출고 — 단독 설치 지원(본인20/부서장80 기본 시드)·부서별 진행률" }
+  "core":       { "version": "v0.8.0", "notes": "Phase 5: 라이선스 키·설치 폰홈(최소 텔레메트리 4항목·fail-silent)·설정 키 모듈 조건부" },
+  "demo":       { "version": "v0.8.0", "notes": "데모 시드(seedDemoCompany) — 개발 마스터 전용" },
+  "probation":  { "version": "v0.8.0", "notes": "상품 마스터 단독 설치 지원 + 라이선스 키" },
+  "competency": { "version": "v0.8.0", "notes": "상품 마스터 단독 설치 지원 + 라이선스 키·부서별 진행률" },
+  "jobeval":    { "version": "v0.8.0", "notes": "상품 마스터 단독 설치 지원 + 라이선스 키·부서별 진행률" }
 }
